@@ -9,5 +9,35 @@ body{
     display: grid;
     grid-template-columns: 50% 50%;
     grid-template-rows: 50% 50% 50%;
-    
+    margin-top: 10%;
+}
+
+.one{
+    border: 1px solid;
+    height: 80%;
+    width: 20%;
+}
+
+.two{
+    border: 1px solid;
+    height: 80%;
+    width: 20%;
+}
+
+.three{
+    border: 1px solid;
+    height: 80%;
+    width: 20%;
+}
+
+.four{
+    border: 1px solid;
+    height: 80%;
+    width: 20%;
+}
+
+.five{
+    border: 1px solid;
+    height: 80%;
+    width: 20%;
 }
