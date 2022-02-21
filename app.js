@@ -23,13 +23,14 @@ async function currentWeather(theZip){
   
 
   document.getElementById("currentTemp").innerHTML = "Current Temp: " + currentData.list[1].main.temp;
+  document.getElementById("currentImg").src = "https://openweathermap.org/img/" + currentData.list[1].weather[0].icon + ".png" ;
   document.getElementById("dayOne").innerHTML =  currentData.list[9].main.temp;
   document.getElementById("dayTwo").innerHTML =  currentData.list[17].main.temp;
   document.getElementById("dayThree").innerHTML =  currentData.list[25].main.temp;
   document.getElementById("dayFour").innerHTML =  currentData.list[33].main.temp;
   document.getElementById("dayFive").innerHTML =  currentData.list[39].main.temp;
   document.getElementById("city").innerHTML = currentData.city.name;
-  console.log(currentData)
+  console.log(currentData.list[1])
 }
 
 
