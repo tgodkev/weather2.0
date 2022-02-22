@@ -1,43 +1,60 @@
 body{
     margin: 0px;
     padding: 0px;
-    
+    background-color: #54BAB9;
 
 }
 
 .container{
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-template-rows: 50% 50% 50%;
+    grid-template-rows: 50% 50% ;
     margin-top: 10%;
+}
+
+.input{
+margin-left: 30%;
+}
+
+
+.current{
+    border: 1px solid;
+    height: 80%;
+    width: 20%;
+    background-color: #E9DAC1;
 }
 
 .one{
     border: 1px solid;
     height: 80%;
     width: 20%;
+    background-color: #E9DAC1;
 }
 
 .two{
     border: 1px solid;
     height: 80%;
     width: 20%;
+    background-color: #E9DAC1;
 }
 
 .three{
     border: 1px solid;
     height: 80%;
     width: 20%;
+    background-color: #E9DAC1;
 }
 
 .four{
     border: 1px solid;
     height: 80%;
     width: 20%;
+    background-color: #E9DAC1;
 }
 
 .five{
     border: 1px solid;
     height: 80%;
     width: 20%;
+    background-color: #E9DAC1;
 }
