@@ -61,3 +61,70 @@ margin-left: 40%;
     width: 30%;
     background: transparent;
 }
+
+@media screen and  (max-width: 900px ){
+    body{
+        margin: 0px;
+        padding: 0px;
+        margin-bottom: 100%;
+        background-image: url("https://cdn.dribbble.com/users/5031/screenshots/3731564/media/198150f199e86ff5baf95cce3a59db73.png?compress=1&resize=800x600&vertical=top");
+        background-repeat: no-repeat;
+       background-size: 100% 100%;
+    }
+    
+    .container{
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-template-rows: 50% 50% ;
+        margin-top: 10%;
+        margin-left: 20%;
+    }
+    
+    .input{
+    margin-left: 40%;
+    }
+    
+    
+    .current{
+        
+        height: 80%;
+        width: 30%;
+        background: transparent;
+    }
+    
+    .one{
+        
+        height: 80%;
+        width: 30%;
+        background: transparent;
+    }
+    
+    .two{
+       
+        height: 80%;
+        width: 30%;
+        background: transparent;
+    }
+    
+    .three{
+        
+        height: 80%;
+        width: 30%;
+        background: transparent;
+    }
+    
+    .four{
+        
+        height: 80%;
+        width: 30%;
+        background: transparent;
+    }
+    
+    .five{
+        
+        height: 80%;
+        width: 30%;
+        background: transparent;
+    }
+    
+}
