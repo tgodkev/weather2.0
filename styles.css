@@ -24,42 +24,42 @@ margin-left: 40%;
     
     height: 80%;
     width: 30%;
-    background: transparent;
+    
 }
 
 .one{
     
     height: 80%;
     width: 30%;
-    background: transparent;
+    
 }
 
 .two{
    
     height: 80%;
     width: 30%;
-    background: transparent;
+   
 }
 
 .three{
     
     height: 80%;
     width: 30%;
-    background: transparent;
+    
 }
 
 .four{
     
     height: 80%;
     width: 30%;
-    background: transparent;
+    
 }
 
 .five{
     
     height: 80%;
     width: 30%;
-    background: transparent;
+    
 }
 
 @media screen and  (max-width: 900px ){
@@ -89,42 +89,42 @@ margin-left: 40%;
         
         height: 80%;
         width: 30%;
-        background: transparent;
+        
     }
     
     .one{
         
         height: 80%;
         width: 30%;
-        background: transparent;
+        
     }
     
     .two{
        
         height: 80%;
         width: 30%;
-        background: transparent;
+        
     }
     
     .three{
         
         height: 80%;
         width: 30%;
-        background: transparent;
+        
     }
     
     .four{
         
         height: 80%;
         width: 30%;
-        background: transparent;
+        
     }
     
     .five{
         
         height: 80%;
         width: 30%;
-        background: transparent;
+        
     }
     
 }
